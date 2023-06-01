@@ -1,0 +1,9 @@
+/target/
+/bin/
+/.idea/
+*.classpath
+*.settings/
+*.project
+src/main/java/Runner/_birjot.java
+*risk.iml
+*src/main/java/testingJI.java
